@@ -41,8 +41,13 @@ GUI Layer (Java Swing): Provides a user-friendly interface for hospital staff to
 4.Database: Stores all the data related to patients, ambulances, departments, employees, and rooms. Can be any relational database (e.g., MySQL, PostgreSQL).
 
 output Screens:
+   
    1.login.java:
    ![Screenshot 2024-07-25 121336](https://github.com/user-attachments/assets/f6cb204d-7f5d-400d-9f73-b327cd5b179e)
+
+   2.reception.java:
+   ![Screenshot 2024-07-25 122035](https://github.com/user-attachments/assets/5e10df94-e94f-47ee-bb88-580bd6c83802)
+
 
    
 
