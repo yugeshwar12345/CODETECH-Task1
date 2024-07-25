@@ -41,7 +41,9 @@ GUI Layer (Java Swing): Provides a user-friendly interface for hospital staff to
 4.Database: Stores all the data related to patients, ambulances, departments, employees, and rooms. Can be any relational database (e.g., MySQL, PostgreSQL).
 
 Add JAR files for the database connectivity:
+
 1.mysql connectivity: https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar
+
 2.Resultset jar file: https://drive.google.com/file/d/1874PPMNEFYZ3N862O1_rVuQbwsNGzCep/view
 
 
